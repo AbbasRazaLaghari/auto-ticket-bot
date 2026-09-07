@@ -6,7 +6,7 @@ import time
 def travel_agency_bot():
     print("🚀 Starting the Travel Agency Auto-Booking Bot...")
     
-    # 1. Initialize Browser
+    # 1.Initialize Browser
     driver = webdriver.Chrome()
     
     try:
